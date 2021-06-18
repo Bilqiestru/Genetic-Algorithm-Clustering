@@ -12,4 +12,4 @@ Secara sederhana, prosedur untuk menyelesaikan proses **clustering** adalah seba
 4. Memprediksi *cluster* setiap titik yang ada dengan cara mengukur jarak titik tersebut ke titik-titik *cluster*, penggolongan *cluster* ditentukan dengan **meninjau jarak yang terdekat** dengan titik *cluster*.
 
 # Penerapan
-*Coding* contoh penerapan algoritma genetika untuk *clustering* dapat diakses melalui 
+*Coding* contoh penerapan algoritma genetika untuk *clustering* dapat diakses melalui https://github.com/Bilqiestru/Genetic-Algorithm-Clustering/blob/main/AlgoritmaGenetika_Clustering.ipynb
